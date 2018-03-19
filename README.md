@@ -58,6 +58,7 @@ Monk | https://agmonk.com/ | Vue, Vuex, Laravel | Maringá/PR
 Multitherm Sistemas e Automação | http://multitherm.com.br/ | Vue, Java | Blumenau/SC
 Notoriun Tecnologia | http://www.notoriun.com.br | Vue, Vuex, Mongo, Redis, ArcGIS, PostGIS, GeoServer, ESRI JS, NodeJS | Brasília/DF
 Nova M3 | http://www.novam3.com | Vue, React, Laravel, CakePHP | Natal RN
+Operand | https://www.operand.com.br | Vue.js, Vuex, VueRouter, Axios, PHP, Phalcon PHP, Node.js, MariaDB, Redis, Memcached | Joinville/SC
 O Postador | https://www.opostador.com.br/ | Vuejs, Vuex, PWA, Laravel, PHP | Jaraguá do Sul/SC
 Octadesk | https://www.octadesk.com | Vue, AngularJS, Angular, Polymer, Node, C#, .Net Core, Docker, MongoDB | São Paulo/SP
 Pipoca Digital | https://www.pipocadigital.com.br | Vue, Firebase, Node, Laravel, WordPress | Rio de Janeiro/RJ
